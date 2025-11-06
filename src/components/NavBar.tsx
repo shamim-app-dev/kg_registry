@@ -10,7 +10,7 @@ export default function NavBar() {
     <nav className="bg-blue-600 p-4 text-white shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          Kindergarten Registry
+          KG Registry
         </Link>
         <div className="space-x-4 flex items-center">
           <Link href="/" className="hover:text-blue-200">
