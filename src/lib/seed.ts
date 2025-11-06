@@ -6,7 +6,7 @@ import { sql } from "drizzle-orm";
 import * as bcrypt from "bcrypt";
 
 dotenv.config({
-  path: ".env.local",
+  path: ".env",
 });
 
 const client = new Client({
